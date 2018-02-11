@@ -1,0 +1,26 @@
+.footer {
+    padding: 60px 0 54px;
+}
+
+.footer-nav {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footer-nav li {
+    display: inline-block;
+    padding-right: 38px;
+}
+
+.footer-nav li:last-child {
+    padding-right: 0;
+}
+
+.footer-nav a {
+    font: 16px "HelveticaRegular", sans-serif;
+    color: #848484;
+}
+
+.footer-nav a:hover {
+    color: #2ecc71;
+}

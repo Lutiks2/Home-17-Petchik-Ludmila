@@ -1,0 +1,43 @@
+
+.header {
+
+    border-top: 10px solid #2ecc71;
+    padding-top: 95px;
+}
+
+.hand {
+    float: right;
+    max-width: 439px;
+    padding-right: 53px;
+}
+
+.welcome {
+    float: left;
+    box-sizing: border-box;
+    padding: 72px 0 0 128px;
+    h1 {
+        display: inline-block;
+    }
+}
+
+.logo {
+    padding-bottom: 12px;
+    display: block;
+}
+
+.logo img {
+    max-width: 183px;
+    padding-bottom: 24px;
+}
+
+.welcome p {
+    max-width: 453px;
+    font: 24px "HelveticaMedium", sans-serif;
+    line-height: 1.5;
+    color: #fff;
+}
+
+.welcome-list {
+    list-style: none;
+    padding-left: 0;
+}
